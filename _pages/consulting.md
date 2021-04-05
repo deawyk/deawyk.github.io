@@ -8,7 +8,7 @@ permalink: /consulting/
 
 <div class="pretty-links">
 
-<div class="lead lead-about"> _Futur Consulting_ uses technological solutions (data) to provide the probabilistically optimal answers for the biggest questions of your life. We help our clients narrow down your option pool, pinpoint your goals, and commit. You will be certain when you make the most important milestone decision of your life, be it selecting the right school, the right career, or the right mindset. 
+<div class="lead lead-about"> I founded _Futur Consulting_ hoping to build technological tools to derive probabilistically advantageous solutions to solving the crossroads in our lives. Be it selecting the right school, the right career, or the right life coach, we make sure you are making the best choice for your big life decisions. We help our clients narrow down their option pool, pinpoint their goal(s), and commit. 
 </div>
 
 <!-- {::nomarkdown} 
