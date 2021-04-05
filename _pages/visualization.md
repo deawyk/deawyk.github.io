@@ -8,7 +8,8 @@ permalink: /visualization/
 
 <div class="pretty-links">
 
-<div class="lead lead-about"> "The best minds of my generation are thinking about how to make people click ads." - Jeff Hammerbacher (data scientist, Cloudera co-founder)
+<div class="lead lead-about"> "The best minds of my generation are thinking about how to make people click ads." 
+    - Jeff Hammerbacher (Data Scientist, Cloudera co-founder)
 </div>
 
 <!-- {::nomarkdown} 
