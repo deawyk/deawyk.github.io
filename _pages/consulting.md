@@ -8,7 +8,7 @@ permalink: /consulting/
 
 <div class="pretty-links">
 
-<div class="lead lead-about"> "See Into Your Future."
+<div class="lead lead-about"> _Futur Consulting_ uses technological solutions (data) to provide the probabilistically optimal answers for the biggest questions of your life. We help our clients narrow down your option pool, pinpoint your goals, and commit. You will be certain when you make the most important milestone decision of your life, be it selecting the right school, the right career, or the right mindset. 
 </div>
 
 <!-- {::nomarkdown} 
@@ -17,7 +17,7 @@ permalink: /consulting/
 </figure>
 {:/} -->
 
-_Futur Consulting_ uses technological solutions (data) to provide the probabilistically optimal answers for the biggest questions of your life. We help our clients narrow down your option pool, pinpoint your goals, and commit. You will be certain when you make the most important milestone decision of your life, be it selecting the right school, the right career, or the right mindset. 
+"See Into Your Future."
 ---
 
 
