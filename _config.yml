@@ -5,7 +5,7 @@ title: Dea Wang               # used for the html title of every page
 desc: Dea is a data analyst working on portfolio optimization and interactive dashboards.
 
 
-url: https://deawyk.github.io      # put your website hosting url here
+url: https://deawyk.com      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
