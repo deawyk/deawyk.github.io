@@ -6,11 +6,6 @@ title: Dea Wang
 ---
 
 <div class="pretty-links">
-<!-- <div class="unit golden-large profile-pic">
-<img class='site-profile' src="/assets/img/xxx.png">
-</div> -->
-
-<!-- ![Kitten](/assets/img/xxx.png "Me") -->
 
 {::nomarkdown} 
 <figure class="site-profile">
