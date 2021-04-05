@@ -17,7 +17,7 @@ permalink: /data/
 </figure>
 {:/} -->
 
-A brief summary of the projects I've been fortunate to participate in. See [my github](https://github.com/deawyk) for a deep dive.
+A brief summary of the projects I've been working on. See [my github](https://github.com/deawyk) for a deep dive.
 
 ---
 
@@ -25,5 +25,3 @@ A brief summary of the projects I've been fortunate to participate in. See [my g
 
 ### Music Metrics
 My colleague [Funto]() and I have been working on... 
-
-### 3
