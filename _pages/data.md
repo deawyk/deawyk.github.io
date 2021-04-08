@@ -8,7 +8,7 @@ permalink: /data/
 
 <div class="pretty-links">
 
-<div class="lead lead-about"> There are three classes of people: those who see, those who see when shown, and those that do not see. - Leonardo Da Vinci
+<div class="lead lead-about"> There are three classes of people: those who see, those who see when shown, and those that do not see. <br> - Leonardo Da Vinci
 </div>
 
 <!-- {::nomarkdown} 
