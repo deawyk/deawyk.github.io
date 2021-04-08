@@ -36,6 +36,9 @@ navigation:
   - title: Consulting
     url: /consulting/
     desc: Hustling for social good
+  - title: Blog
+    url: www.deaw.medium.com
+    desc: My public Notions notebook
   - title: <i class='fa fa-file-text'></i> CV
     url: /assets/pdf/deawyk_cv.pdf
 
