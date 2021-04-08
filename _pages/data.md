@@ -8,7 +8,7 @@ permalink: /data/
 
 <div class="pretty-links">
 
-<div class="lead lead-about"> There are three classes of people: those who see, those who see when shown, and those that do not see. - Leonardo Da Vinci
+<div class="lead lead-about"> "There are three classes of people: those who see, those who see when shown, and those that do not see." - Leonardo Da Vinci
 </div>
 
 <!-- {::nomarkdown} 
@@ -17,10 +17,14 @@ permalink: /data/
 </figure>
 {:/} -->
 
-As a Data Analyst, our job is simply __to see__. Amongst the inordinate numbers of KPIs to track, my work has mostly been in identifying the disproportionately valuable ones which drive the most business impact. Usually they are also the ones that get the most pushback cross-departments. 
+As a Data Analyst, our job is simply _to see_. Amongst the inordinate numbers of KPIs to track, my work has mostly been in identifying the disproportionately valuable ones which drive the most business impact. Usually they are also the ones that get the most pushback cross-departments. 
+
 _"We can up the CTR, but not Offline Referral. We don't even track that." 
-"That's too difficult!." 
-"Impossible."_
+
+_"That's too difficult!." 
+
+_"Impossible."_
+
 When I hear things like these, it's usually a sign I'm onto something. 
 
 I love my job because I get to learn from subject-matter experts, quiz them on their job until I understand just enough to start asking the right questions. The same questions are then translated and queried into the data. Data is like my solutions book. I spend most of my time iterating it, improving it incrementally, applying some creativity, and waiting for that _Aha_ moment when patterns start to appear for me and the knowledge finally sticks. 
