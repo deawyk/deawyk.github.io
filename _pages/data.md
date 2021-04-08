@@ -17,7 +17,7 @@ permalink: /data/
 </figure>
 {:/} -->
 
-As a Data Analyst, our job is simply _to see_. Amongst the inordinate numbers of KPIs to track, my work has mostly been in identifying the disproportionately valuable ones which drive the most business impact. Usually they are also the ones that get the most pushback cross-departments. 
+As a Data Analyst, I'm here simply _to see_. Amongst the inordinate numbers of KPIs to track, my work has mostly been in identifying the disproportionately valuable ones which drive the most business impact. Usually they are also the ones that get the most pushback cross-departments. 
 
 _"We can up the CTR, but not Offline Referral. We don't even track that."_ <br>
 _"That's too difficult!."_ <br>
