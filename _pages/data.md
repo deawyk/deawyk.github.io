@@ -25,9 +25,10 @@ _"Impossible."_ <br>
 
 When I hear things like these, it's usually a sign I'm onto something. 
 
-I love my job because I get to learn from subject-matter experts, quiz them on their job until I understand just enough to start asking the right questions. The same questions are then translated and queried into the data. Data is like my solutions book. I spend most of my time iterating it, improving it incrementally, applying some creativity, and waiting for that _Aha_ moment when patterns start to appear for me and the knowledge finally sticks. 
+I love my job because I get to learn from subject-matter experts, quiz them on their job until I understand just enough to start asking the right questions. The same questions are then translated and queried into the data. Data is like my solutions book. I spend most of my time iterating it, incrementally improving it, and applying some creativity to it, waiting for that _Aha_ moment when the patterns start to surface and the knowledge finally sticks. 
 
-It's not about moving stubborn numbers, ultimately, it is to help businesses grow.
+It's not about just moving stubborn numbers, ultimately, it is the best and perhaps only answer to helping businesses grow.
+
 
 A deep dive of codes is coming soon on [my github](https://github.com/deawyk). In the meantime, I've included a brief summary of the projects I've been working on.
 
