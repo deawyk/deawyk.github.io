@@ -8,8 +8,8 @@ permalink: /visualization/
 
 <div class="pretty-links">
 
-<div class="lead lead-about"> "The best minds of my generation are thinking about how to make people click ads." 
-    - Jeff Hammerbacher (Data Scientist, Cloudera co-founder)
+<div class="lead lead-about"> The best minds of my generation are thinking about how to make people click ads.
+    <br>- Jeff Hammerbacher (Data Scientist, Cloudera co-founder)
 </div>
 
 <!-- {::nomarkdown} 
@@ -18,12 +18,12 @@ permalink: /visualization/
 </figure>
 {:/} -->
 
-A summary of my ideologies and Tableau obsession.
+My Tableau obsession, coming soon.
 ---
 
 
-### Title for Project
+### Title
 
 **2020-2021** · Role · Goal
 
-Short summary. [Name for link](http://forlink/). 
+Summary. [Link](http://forlink/). 
