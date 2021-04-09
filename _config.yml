@@ -28,13 +28,13 @@ paginate_path: "/articles/page:num/"  # link scheme for articles, should be letf
 # > Title is the tile of the navigation item, url the url and desc is the tooltip
 navigation:
   - title: Projects
-    url: /projects/
+    url: /project/
     desc: My portfolio projects
   - title: Visualizations
-    url: /visualizations/
+    url: /visualization/
     desc: Visualizations I ETLed and developed
-  - title: Hustle
-    url: /hustle/
+  - title: Consulting
+    url: /consulting/
     desc: Hustling for social good
   - title: <i class='fa fa-file-text'></i> CV
     url: /assets/pdf/deawyk_cv.pdf
