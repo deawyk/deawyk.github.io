@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Visualization
+title: Visualizations
 # subtitle: I am a smart heading.
 desc: Visualizations I ETLed and developed.
-permalink: /visualization/
+permalink: /visualizations/
 ---
 
 <div class="pretty-links">
