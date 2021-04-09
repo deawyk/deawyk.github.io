@@ -3,7 +3,7 @@ layout: page
 title: Visualizations
 # subtitle: I am a smart heading.
 desc: Visualizations I ETLed and developed.
-permalink: /visualizations/
+permalink: /visualization/
 ---
 
 <div class="pretty-links">
@@ -18,7 +18,7 @@ permalink: /visualizations/
 </figure>
 {:/} -->
 
-My Tableau obsession, coming soon.
+Coming soon.
 ---
 
 
