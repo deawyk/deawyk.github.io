@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Data
+title: Projects
 # subtitle: I am a smart heading.
 desc: My portfolio projects.
-permalink: /data/
+permalink: /projects/
 ---
 
 <div class="pretty-links">
