@@ -24,7 +24,7 @@ Every journey starts with a fit interview for both parties to see how they can h
 
 
 ### Admissions Consulting
-- High School: choosing between International Baccalaureate (IB) vs Gifted Program vs Private Schools
+- High School: IB vs Gifted Program vs Private School
 - Post-secondary: University vs College vs Trade School, and what to major in?!
 - Graduate schools: Law/Med Schools, Dental, OD, PT, and practical Masters and Professional Certifications
 - Guidance for parents and students 
