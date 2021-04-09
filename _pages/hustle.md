@@ -18,8 +18,10 @@ permalink: /consulting/
 {:/} -->
 
 "See Into Your Future."
+---
 Every journey starts with a fit interview for both parties to see how they can help in planning for your future.
 ---
+
 
 ### Admissions Consulting
 - High School: choosing between International Baccalaureate (IB) vs Gifted Program vs Private Schools
