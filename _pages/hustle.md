@@ -17,10 +17,10 @@ permalink: /consulting/
 </figure>
 {:/} -->
 
-"See Into Your Future."
+See Into Your Future.
 ---
 Every journey starts with a fit interview for both parties to see how they can help in planning for your future.
----
+--
 
 
 ### Admissions Consulting
