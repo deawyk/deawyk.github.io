@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Consulting
+title: Hustle
 # subtitle: I am a smart heading.
 desc: Hustling for social good.
-permalink: /consulting/
+permalink: /hustle/
 ---
 
 <div class="pretty-links">
 
-<div class="lead lead-about"> I founded _Futur Consulting_ on the back of my extended experience transitioning between schools, countries, and careers. We help our clients assess their life, narrow down their options, pinpoint their goals, and follow up on their committments. 
+<div class="lead lead-about"> I founded _Futur Consulting_ on the backs of my extended experience transitioning between schools, countries, and careers. At FC, we help our clients assess their life, narrow down their options, pinpoint their goals, and follow up on their committments. 
 </div>
 
 <!-- {::nomarkdown} 
@@ -22,9 +22,16 @@ permalink: /consulting/
 
 
 ### Admissions Consulting
+-
+-
+-
 
 ### Career Consulting
+-
+-
+-
 
 ### Mental Health Consulting
-
-
+-
+-
+-
