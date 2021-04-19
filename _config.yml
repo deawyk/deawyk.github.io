@@ -34,6 +34,9 @@ navigation:
     url: /visualization/
     desc: Visualizations I ETLed and developed
   - title: Consulting
+    url: <href="https://www.catchafire.org/profiles/1474308/">
+    desc: Hustling for social good
+  - title: Consulting
     url: /consulting/
     desc: Hustling for social good
   - title: <i class='fa fa-file-text'></i> CV
