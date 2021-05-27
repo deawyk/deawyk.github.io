@@ -9,8 +9,11 @@ permalink: /visualization/
 <div class="pretty-links">
 
 <div class="lead lead-about"> The best minds of my generation are thinking about how to make people click ads.
-    <br>- Jeff Hammerbacher (Data Scientist, Cloudera co-founder)
+    <br>
+<div style="text-align: right">Jeff Hammerbacher
+    (Data Scientist, Cloudera co-founder)
 </div>
+<div style="text-align: left">
 
 <!-- {::nomarkdown} 
 <figure class="site-profile">
@@ -19,11 +22,10 @@ permalink: /visualization/
 {:/} -->
 
 Coming soon.
+    
 ---
-
 
 ### Title
 
 **2020-2021** · Role · Goal
 
-Summary. [Link](http://forlink/). 
