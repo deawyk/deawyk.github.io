@@ -26,7 +26,6 @@ I cleaned and explored over 500k records of retail data from an UK based online 
     
 <i class='fa fa-file-text'></i>[Customer Segmentation Presentation](/assets/pdf/git.customerseg.pdf)
 <img src="{{ site.baseurl }}/assets/img/git.cs1.png">
-<img src="{{ site.baseurl }}/assets/img/git.cs2.png">
     
 ### [Automated Trading System with APIs](https://github.com/deawyk/Automated-Trading-System-via-APIs/blob/main/automated%20trading%20tda%20api.py)
 **A trading bot that trades stocks for you using TD Ameritrade API in Python.**<br>
