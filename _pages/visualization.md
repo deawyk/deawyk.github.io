@@ -27,4 +27,12 @@ permalink: /visualization/
 
     
 ### Power BI
+<img src="{{ site.baseurl }}/assets/img/git.viz11.png">
+<img src="{{ site.baseurl }}/assets/img/git.viz12.png">
+<img src="{{ site.baseurl }}/assets/img/git.viz13.png">
+<img src="{{ site.baseurl }}/assets/img/git.viz14.png">
 
+### Excel
+<img src="{{ site.baseurl }}/assets/img/git.viz01.png">
+<img src="{{ site.baseurl }}/assets/img/git.viz02.png">
+<img src="{{ site.baseurl }}/assets/img/git.viz03.png">
