@@ -10,7 +10,7 @@ permalink: /consulting/
 
 <div class="lead lead-about">
 <div>
-[Pro Bono Consulting](https://www.catchafire.org/profiles/1474308/)<br>
+### [Pro Bono Consulting](https://www.catchafire.org/profiles/1474308/)<br>
 ***Catchafire.org***
 <img src="{{ site.baseurl }}/assets/img/git.catchafire.png"/>
 
