@@ -10,7 +10,7 @@ permalink: /consulting/
 
 <div class="lead lead-about">
 [Pro Bono Data Analytics Consulting @ Catchafire.org](https://www.catchafire.org/profiles/1474308/)
-<img src="assets/img/git.catchafire.png"/>
+<img src="{{ site.baseurl }}/assets/img/git.catchafire.png"/>
 
 
 <!-- {::nomarkdown} 
@@ -20,8 +20,7 @@ permalink: /consulting/
 {:/} -->
 
 ---
-Futur Consulting
-
+###Futur Consulting
 I founded _Futur Consulting_ on the back of my extended experience transitioning between schools, countries, and careers. We help our clients assess their life, narrow down their options, pinpoint their goals, and follow up on their committments. 
 </div>    
  
