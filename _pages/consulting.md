@@ -22,7 +22,7 @@ permalink: /consulting/
 {:/} -->
 
 <br>
-<br>
+
 ---
 
     
