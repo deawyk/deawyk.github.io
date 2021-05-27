@@ -9,7 +9,8 @@ permalink: /project/
 <div class="pretty-links">
 
     
-<div class="lead lead-about"><div style="float:right">There are three classes of people: those who see, those who see when shown, and those that do not see.<br> - Leonardo Da Vinci
+<div class="lead lead-about">There are three classes of people: those who see, those who see when shown, and those that do not see.<br></div>
+<div style="text-align: right">- Leonardo Da Vinci</div>
 
 <!-- {::nomarkdown} 
 <figure class="site-profile">
