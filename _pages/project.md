@@ -23,6 +23,7 @@ permalink: /project/
 ### [Customer Segmentation with K-means](https://github.com/deawyk/Customer-Segmentation-via-KMeans/blob/main/CS_KMeans.ipynb)
 **Customer segmentation and cohort analysis on real retail data using k-means clustering.**<br>
 I cleaned and explored over 500k records of retail data from an UK based online store. Prices in GBP was dynamically converted based on currency rate ([currency converter](https://pypi.org/project/CurrencyConverter/)) at date of purchase. Behavioural analysis was conducted on each cohort; average purchase value, customer value, CLV, were determined to draw further insights. My heuristic approach to segmentation using RFM was compared to the definitive k-means algorithm (minimizes within cluster variances). Tellingly, the unsupervised ML output had 69% congruence to the heuristic approach. Presentation was visual heavy and intended for business-oriented audience.
+    
 <i class='fa fa-file-text'></i>[Customer Segmentation Presentation](/assets/pdf/git.customerseg.pdf)
 <img src="{{ site.baseurl }}/assets/img/git.cs1.png">
 <img src="{{ site.baseurl }}/assets/img/git.cs2.png">
@@ -35,6 +36,7 @@ I used [tda-api](https://pypi.org/project/tda-api/) for most trading actions. Th
 ### [Google BigQuery ETL and KPI Dashboard](https://github.com/deawyk/Google-Analytics-KPIs-via-Google-BigQuery/blob/main/BigQuery%20Script.sql)
 **A high-level to granular dashboard in Tableau using Google BigQuery ETL from Google Analytics Sample data.**<br>
 I wrote SQL-like queries for the metrics: Total Pageviews, Total Unique Pageviews, Total Entrances, Total Exits, Total Time on Page, Total Sessions, and Total Bounces.
+    
 [Google Merchandise Store Dashboard](https://public.tableau.com/views/gms_16221492319430/1?:language=en-US&:display_count=n&:origin=viz_share_link)
 <img src="{{ site.baseurl }}/assets/img/git.ga1.png">          
 
