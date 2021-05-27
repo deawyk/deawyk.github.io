@@ -8,11 +8,9 @@ permalink: /project/
 
 <div class="pretty-links">
 
-<div class="lead lead-about"> There are three classes of people: those who see, those who see when shown, and those that do not see.</div>
     
-    <div style="display: flex; justify-content: flex-end">
-  <div>- Leonardo Da Vinci</div>
-</div>
+<div class="lead lead-about"> There are three classes of people: those who see, those who see when shown, and those that do not see.<br>
+                                - Leonardo Da Vinci</div>
     
 <style>
  p {
@@ -30,12 +28,16 @@ permalink: /project/
 ---
     
 ### [Automated Trading System with APIs](https://github.com/deawyk/Automated-Trading-System-via-APIs/blob/main/automated%20trading%20tda%20api.py)
-<p> A trading bot that trades stocks for you using the TD Ameritrade API in Python.
-    I used the tda-api ([documentations here](https://pypi.org/project/tda-api/)) for most trading actions. The stock you wish to trade and the time interval you wish to trade at is determined by user input. Investment strategies can be altered according to personal desire. Here, I bought and sold stocks by setting an RSI threshold as the trigger([technical analysis library](https://technical-analysis-library-in-python.readthedocs.io/en/latest/) is used for calculating financial ratios). I automated the process end-to-end by importing Selenium and Chrome Driver for automatic login.</p>
+<div> A trading bot that trades stocks for you using the TD Ameritrade API in Python.
+    - I used the [tda-api](https://pypi.org/project/tda-api/) for most trading actions. 
+    - The stock the time interval you wish to trade at is determined by user input. 
+    - Investment strategies can be altered according to personal desire. 
+    - Here, I bought and sold stocks by setting an RSI threshold as the trigger([ta](https://technical-analysis-library-in-python.readthedocs.io/en/latest/) for financial ratios). 
+    - I automated the process end-to-end by importing Selenium and Chrome Driver for automatic login.</div>
     
 ### [Customer Segmentation using K-Means](https://github.com/deawyk/Customer-Segmentation-via-KMeans)
 <p>    **Customer segmentation and cohort analysis on real retail data using k-means clustering.** 
-<span class='bullet'></span><h1>I cleaned and explored over 525k records of retail data from an UK based online store over a one year period.</h1> 
+- I cleaned and explored over 525k records of retail data from an UK based online store over a one year period.
     - Behavioural analysis was conducted on cohorts, and metrics including average purchase value, customer value, CLV, were calculated and drew further insights. 
     - I took an heuristic approach to segmentation using RFM and compared those results to results from the definitive k-means algorithm (minimizes within cluster variances). 
     - Tellingly, the unsupervised machine learning output had almost 70% congruence to the heuristic approach.
