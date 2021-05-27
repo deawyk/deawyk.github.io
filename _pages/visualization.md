@@ -10,8 +10,7 @@ permalink: /visualization/
 
 <div class="lead lead-about"> The best minds of my generation are thinking about how to make people click ads.
     <br>
-<div style="text-align: right">Jeff Hammerbacher
-    (Data Scientist, Cloudera co-founder)
+<div style="text-align: right">Jeff Hammerbacher<br>(Data Scientist, Cloudera co-founder)
 </div>
 <div style="text-align: left">
 
@@ -21,7 +20,7 @@ permalink: /visualization/
 </figure>
 {:/} -->
 
-Coming soon.
+
     
 ---
 
