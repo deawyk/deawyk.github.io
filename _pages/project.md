@@ -39,8 +39,8 @@ I built three data pipelines for diversely formatted sites to compile stock mark
 
 ---
     
-### Thoughts
-<p> As a data analyst, the goal is simply *to see*. Amongst an inordinate amount of KPIs, my goal is to identify the disproportionately valuable ones which drive the biggest impact. Often, they are the ones to get the most pushback cross-departments, they are also the most difficult and stubborn KPIs to move.<br>
+### Conclusion
+<p> As a data analyst, the goal is simply *to see*. Amongst an inordinate amount of KPIs, my goal is to identify the disproportionately valuable ones which drive the biggest impact. Often, they are the ones to get the most pushback cross-departments. They are also the most difficult and stubborn KPIs to move.<br>
     
 I like to lay groundwork by learning from and interviewing subject-matter experts to get a clear definition of the business problem. Then, data becomes my solutions book. I'll iterate, incrementally improve, and apply creativity in pursuit of a resolve, having some _Aha_ moments along the way.<br>
     
