@@ -27,11 +27,13 @@ I cleaned and explored over 500k records of retail data from an UK based online 
 <i class='fa fa-file-text'></i>[Customer Segmentation Presentation](/assets/pdf/git.customerseg.pdf)
 <img src="{{ site.baseurl }}/assets/img/git.cs1.png">
     
+    
 ### [Automated Trading System with APIs](https://github.com/deawyk/Automated-Trading-System-via-APIs/blob/main/automated%20trading%20tda%20api.py)
 **A trading bot that trades stocks for you using TD Ameritrade API in Python.**<br>
 I used [tda-api](https://pypi.org/project/tda-api/) for most trading actions. The stock and time interval to trade at is determined by user input. Investment strategies are altered accordingly. Here, I bought and sold stocks by setting RSI ([ta](https://technical-analysis-library-in-python.readthedocs.io/en/latest/) for financial ratios) thresholds to trigger action. I automated the process end-to-end by importing Selenium and Chrome Driver for automatic login.
 <img src="{{ site.baseurl }}/assets/img/git.tb1.png">
 
+    
 ### [Google BigQuery ETL and KPI Dashboard](https://github.com/deawyk/Google-Analytics-KPIs-via-Google-BigQuery/blob/main/BigQuery%20Script.sql)
 **A high-level to granular dashboard in Tableau using Google BigQuery ETL from Google Analytics Sample data.**<br>
 I wrote SQL-like queries for the metrics: Total Pageviews, Total Unique Pageviews, Total Entrances, Total Exits, Total Time on Page, Total Sessions, and Total Bounces.
@@ -39,6 +41,7 @@ I wrote SQL-like queries for the metrics: Total Pageviews, Total Unique Pageview
 [Google Merchandise Store Dashboard](https://public.tableau.com/views/gms_16221492319430/1?:language=en-US&:display_count=n&:origin=viz_share_link)
 <img src="{{ site.baseurl }}/assets/img/git.ga1.png">          
 
+    
 ### [Comprehensive Webscraping with Regex](https://github.com/deawyk/Webscraping-Three-Ways/blob/main/pipeline.py)
 **Webscraping using Regex, Selenium, BeautifulSoup to download financial data into workable dataframes.**<br>
 I built three data pipelines for diversely formatted sites to compile stock market data via [yfinance](https://pypi.org/project/yfinance/), with an emphasis on learning regex.
