@@ -25,10 +25,9 @@ permalink: /project/
 **Customer segmentation and cohort analysis on real retail data using k-means clustering.**<br>
 I cleaned and explored over 500k records of retail data from an UK based online store. Prices in GBP was dynamically converted based on currency rate ([currency converter](https://pypi.org/project/CurrencyConverter/)) at date of purchase. Behavioural analysis was conducted on each cohort; average purchase value, customer value, CLV, were determined to draw further insights. My heuristic approach to segmentation using RFM was compared to the definitive k-means algorithm (minimizes within cluster variances). Tellingly, the unsupervised ML output had 69% congruence to the heuristic approach. Presentation was visual heavy and intended for business-oriented audience.
 
-[Customer Segmentation Presentation](assets/pdf/git.customerseg.pdf)
+[Customer Segmentation Presentation]({{ site.baseurl }}/assets/pdf/git.customerseg.pdf)
 <img src="{{ site.baseurl }}/assets/img/git.cs1.png">
 <img src="{{ site.baseurl }}/assets/img/git.cs2.png">
-<img src="{{ site.baseurl }}/assets/img/git.cs3.png">
     
 ### [Automated Trading System with APIs](https://github.com/deawyk/Automated-Trading-System-via-APIs/blob/main/automated%20trading%20tda%20api.py)
 **A trading bot that trades stocks for you using TD Ameritrade API in Python.**<br>
