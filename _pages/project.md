@@ -23,7 +23,7 @@ permalink: /project/
 ### [Customer Segmentation with K-means](https://github.com/deawyk/Customer-Segmentation-via-KMeans/blob/main/CS_KMeans.ipynb)
 **Customer segmentation and cohort analysis on real retail data using k-means clustering.**
     
-I cleaned and explored over 500k records of retail data from an UK based online store. Prices in GBP was dynamically converted based on exchange rate at date of purchase([currency converter](https://pypi.org/project/CurrencyConverter/)). Behavioural analysis was conducted on each cohort; average purchase value, customer value, CLV, were determined to draw further insights. My heuristic approach to segmentation using RFM was compared to the definitive k-means algorithm (minimizes within cluster variances). Tellingly, the unsupervised ML output had 69% congruence to the heuristic approach. Presentation was visual heavy and intended for business-oriented audience.<br>
+I cleaned and explored over 500k records of retail data from an UK based online store. Prices in GBP was dynamically converted based on fx rate at date of purchase([currency converter](https://pypi.org/project/CurrencyConverter/)). Behavioural analysis was conducted on each cohort; average purchase value, customer value, CLV, were determined to draw further insights. My heuristic approach to segmentation using RFM was compared to the definitive k-means algorithm (minimizes within cluster variances). Tellingly, the unsupervised ML output had 69% congruence to the heuristic approach. Presentation was visual heavy and intended for business-oriented audience.<br>
 <i class='fa fa-file-text'></i>[Customer Segmentation Presentation](/assets/pdf/git.customerseg.pdf)
 <img src="{{ site.baseurl }}/assets/img/git.cs1.png">
     
