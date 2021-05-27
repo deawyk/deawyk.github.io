@@ -14,7 +14,7 @@ title: Dea Wang
 {:/}
 
 <div class="lead lead-about">
-Hello and welcome! I'm a full-stack Data and Business Intelligence Analyst with industry experience in commercial real estate. As a lifelong tinkerer, I find inspirations on [Statista](https://www.statista.com/), [Bisnow](www.bisnow.com), [CBRE](https://www.cbre.ca/en/research-and-reports), & [Visual Capitalist](https://www.visualcapitalist.com).
+Hello and welcome! I'm a full-stack Data and Business Intelligence Analyst with industry experience in commercial real estate. As a lifelong tinkerer, I find inspirations on [Statista](https://www.statista.com/), [Bisnow](www.bisnow.com), [CBRE](https://www.cbre.ca/en/research-and-reports), & [vc](https://www.visualcapitalist.com).
 
 My object is to design fast and hopefully provably optimal or robust solutions to yield clairvoyance for decision making. I enjoy clearly articulated stories and codes, and continue to add to my mathematically rich background. Please feel free to reach out, I'm always happy to learn!
 </div>
