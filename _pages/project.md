@@ -9,15 +9,18 @@ permalink: /project/
 <div class="pretty-links">
 
     
-<div class="lead lead-about">There are three classes of people: those who see, those who see when shown, and those that do not see.<br></div>
-<div style="text-align: right">- Leonardo Da Vinci</div>
-
+<div class="lead lead-about">There are three classes of people: those who see, those who see when shown, and those that do not see.<br>
+<div style="text-align: right"> Leonardo Da Vinci
+<div style="text-align: left">
+    
 <!-- {::nomarkdown} 
 <figure class="site-profile">
     <img src="{{ site.baseurl }}/assets/img/profile.png">
 </figure>
 {:/} -->
-
+p {
+    white-space: pre-line;
+}
 
 ---
 <div>
@@ -39,9 +42,8 @@ permalink: /project/
 
 ---
     
-<div>
 ### Conclusion
-    In all my projects, the goal is simply _to see_. Amongst an inordinate amount of KPIs, I want to identify the disproportionately valuable ones which drive the greatest impact. Usually, they are the ones that get the most pushback cross-departments, because they are the most difficult and stubborn KPIs to move. 
+<p>    In all my projects, the goal is simply _to see_. Amongst an inordinate amount of KPIs, I want to identify the disproportionately valuable ones which drive the greatest impact. Usually, they are the ones that get the most pushback cross-departments, because they are the most difficult and stubborn KPIs to move. 
     I like to lay groundwork by learning from and interviewing subject-matter experts to get a clear definition of the business problem. Data then becomes my solutions book. I spend most of my time iterating, incrementally improving, and applying some creativity to the answer. I love having _Aha_ moments throughout the process. 
-    The beauty of data is that it is falseless and fair (the truth). How well data can help businesses grow depends solely on its application.
+    The beauty of data is that it is falseless and fair (the truth). How well data can help businesses grow depends solely on its application.</p>
 
