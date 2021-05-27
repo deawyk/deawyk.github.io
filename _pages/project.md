@@ -22,7 +22,7 @@ permalink: /project/
 ---
 <div>
 ### [Automated Trading System with APIs](https://github.com/deawyk/Automated-Trading-System-via-APIs/blob/main/automated%20trading%20tda%20api.py)
-**A trading bot that trades stocks for you using TD Ameritrade API in python.**<br>
+**A trading bot that trades stocks for you using TD Ameritrade API in Python.**<br>
 I used [tda-api](https://pypi.org/project/tda-api/) for most trading actions. The stock and time interval to trade at is determined by user input. Investment strategies are altered accordingly. Here, I bought and sold stocks by setting RSI ([ta](https://technical-analysis-library-in-python.readthedocs.io/en/latest/) for financial ratios) thresholds to trigger action. I automated the process end-to-end by importing Selenium and Chrome Driver for automatic login.
     
 ### [Customer Segmentation using K-Means](https://github.com/deawyk/Customer-Segmentation-via-KMeans)
