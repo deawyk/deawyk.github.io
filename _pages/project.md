@@ -36,11 +36,13 @@ I used [tda-api](https://pypi.org/project/tda-api/) for most trading actions. Th
 ### [Google BigQuery ETL and KPI Dashboard](https://github.com/deawyk/Google-Analytics-KPIs-via-Google-BigQuery/blob/main/BigQuery%20Script.sql)
 **A high-level to granular dashboard in Tableau using Google BigQuery ETL from Google Analytics Sample data.**<br>
 I wrote SQL-like queries for the metrics: Total Pageviews, Total Unique Pageviews, Total Entrances, Total Exits, Total Time on Page, Total Sessions, and Total Bounces.
+<div class='tableauPlaceholder' id='viz1622151320980' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;gm&#47;gms_16221492319430&#47;1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='gms_16221492319430&#47;1' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;gm&#47;gms_16221492319430&#47;1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1622151320980');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1600px';vizElement.style.height='950px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
     
 ### [Comprehensive Webscraping with Regex](https://github.com/deawyk/Webscraping-Three-Ways/blob/main/pipeline.py)
 **Webscraping using Regex, Selenium, BeautifulSoup to download financial data into workable dataframes.**<br>
 I built three data pipelines for diversely formatted sites to compile stock market data via [yfinance](https://pypi.org/project/yfinance/), with an emphasis on learning regex.
 <img src="{{ site.baseurl }}/assets/img/git.ws2.png">
+    
 ---
     
 ### Conclusion
