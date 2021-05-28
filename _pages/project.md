@@ -47,7 +47,7 @@ I wrote SQL-like queries for the metrics: Total Pageviews, Total Unique Pageview
 ### [Comprehensive Webscraping with Regex](https://github.com/deawyk/Webscraping-Three-Ways/blob/main/pipeline.py)
 **Webscraping using Regex, Selenium, BeautifulSoup to download financial data into workable dataframes.**
     
-I built data pipelines for three diversely formatted sites to compile stock market data via [yfinance](https://pypi.org/project/yfinance/), with an emphasis on learning regex.
+I built data pipelines for three diversely formatted sites to compile stock market data via [yfinance](https://pypi.org/project/yfinance/), with emphasis on regex.
 <img src="{{ site.baseurl }}/assets/img/git.ws2.png">
     
 ---
