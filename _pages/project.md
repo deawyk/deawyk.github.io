@@ -24,14 +24,14 @@ permalink: /project/
 ### [Automated Trading System with APIs](https://github.com/deawyk/Automated-Trading-System-via-APIs/blob/main/automated%20trading%20tda%20api.py)
 **A trading bot that trades stocks for you using TD Ameritrade API in Python.**
     
-I used [tda-api](https://pypi.org/project/tda-api/) for most trading actions. User determined choice of stock, trading interval, and investment strategies. Here, I bought and sold stocks by setting RSI ([ta](https://technical-analysis-library-in-python.readthedocs.io/en/latest/) for financial ratios) thresholds as triggers. Process was automated end-to-end by importing Selenium and Chrome Driver for automatic login.
+I wrote multiple Classes for trading actions using [tda-api](https://pypi.org/project/tda-api/). User could determine choice of stock, trading interval, and investment strategy. In the example I used RSI or EMA thresholds ([ta](https://technical-analysis-library-in-python.readthedocs.io/en/latest/) for financial ratios) to trigger actions. Process was automated end-to-end by importing Selenium and Chrome Driver to login.
 <img src="{{ site.baseurl }}/assets/img/git.tb1.png">
     
     
 ### [Customer Segmentation with K-means](https://github.com/deawyk/Customer-Segmentation-via-KMeans/blob/main/CS_KMeans.ipynb)
 **Customer segmentation and cohort analysis on real retail data using k-means clustering.**
     
-I cleaned and explored over 500k records of retail data from an UK based online store. Prices in GBP was dynamically converted based on fx rate at date of purchase ([currency converter](https://pypi.org/project/CurrencyConverter/)). Behavioural analysis was conducted on each cohort; CLV and other metrics drew further insights. My heuristic approach through RFM segmentation was compared to the definitive k-means algorithm (minimizes within cluster variances). Tellingly, the unsupervised ML output had 69% congruence to the heuristic approach, with major differences. Presentation was intended for a business-oriented audience.<br>
+Cleaned and explored over 500k records of retail data from an UK based online store. Dynamically converted prices in GBP based on fx rate at date of purchase ([currency converter](https://pypi.org/project/CurrencyConverter/)); conducted behavioural analysis on each cohort; calculated CLV and success metrics. My heuristic approach using RFM segmentation was analyzed against outputs from k-means algorithm (minimizes within cluster variances), which resulted in 69% congruence. I explained business implications and recommended best practice in my presentation to a business-oriented audience.<br>
 <i class='fa fa-file-text'></i>[Customer Segmentation Presentation](/assets/pdf/git.customerseg.pdf)
 <img src="{{ site.baseurl }}/assets/img/git.cs1.png">
 
