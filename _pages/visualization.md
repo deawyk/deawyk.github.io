@@ -28,6 +28,7 @@ permalink: /visualization/
     
 ### Power BI
     DAX, Calculated Groups, Time Intelligence
+    
 <img src="{{ site.baseurl }}/assets/img/git.bi1.png">
 <img src="{{ site.baseurl }}/assets/img/git.bi2.png">
 <img src="{{ site.baseurl }}/assets/img/git.viz1.png">
@@ -37,5 +38,6 @@ permalink: /visualization/
 
 ### Excel
     Roll Rate Report and Vintage Analysis
+    
 <img src="{{ site.baseurl }}/assets/img/git.vizexcel1.png">
 <img src="{{ site.baseurl }}/assets/img/git.vizexcel2.png">
