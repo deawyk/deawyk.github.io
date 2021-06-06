@@ -27,10 +27,10 @@ permalink: /visualization/
 
     
 ### Power BI
-<img src="{{ site.baseurl }}/assets/img/git.viz11.png">
-<img src="{{ site.baseurl }}/assets/img/git.viz12.png">
-<img src="{{ site.baseurl }}/assets/img/git.viz13.png">
-<img src="{{ site.baseurl }}/assets/img/git.viz14.png">
+<img src="{{ site.baseurl }}/assets/img/git.bi1.png">
+<img src="{{ site.baseurl }}/assets/img/git.bi2.png">
+<img src="{{ site.baseurl }}/assets/img/git.viz1.png">
+<img src="{{ site.baseurl }}/assets/img/git.viz2.png">
 
 ### Excel
 <img src="{{ site.baseurl }}/assets/img/git.viz01.png">
