@@ -32,8 +32,7 @@ permalink: /visualization/
 <img src="{{ site.baseurl }}/assets/img/git.bi1.png">
 <img src="{{ site.baseurl }}/assets/img/git.bi2.png">
 <img src="{{ site.baseurl }}/assets/img/git.viz1.png">
-<img src="{{ site.baseurl }}/assets/img/shipping dash1.png">
-<img src="{{ site.baseurl }}/assets/img/shipping dash2.png">
+<img src="{{ site.baseurl }}/assets/img/git.viz1_1.png">
 <img src="{{ site.baseurl }}/assets/img/git.viz2.png">
 
 ### Excel
