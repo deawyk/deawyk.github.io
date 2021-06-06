@@ -27,12 +27,15 @@ permalink: /visualization/
 
     
 ### Power BI
+    DAX, Calculated Groups, Time Intelligence
 <img src="{{ site.baseurl }}/assets/img/git.bi1.png">
 <img src="{{ site.baseurl }}/assets/img/git.bi2.png">
 <img src="{{ site.baseurl }}/assets/img/git.viz1.png">
+<img src="{{ site.baseurl }}/assets/img/shipping dash1.png">
+<img src="{{ site.baseurl }}/assets/img/shipping dash2.png">
 <img src="{{ site.baseurl }}/assets/img/git.viz2.png">
 
 ### Excel
-<img src="{{ site.baseurl }}/assets/img/git.viz01.png">
-<img src="{{ site.baseurl }}/assets/img/git.viz02.png">
-<img src="{{ site.baseurl }}/assets/img/git.viz03.png">
+    Roll Rate Report and Vintage Analysis
+<img src="{{ site.baseurl }}/assets/img/git.vizexcel1.png">
+<img src="{{ site.baseurl }}/assets/img/git.vizexcel2.png">
