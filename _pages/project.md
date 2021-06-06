@@ -24,14 +24,14 @@ permalink: /project/
 ### [Automated Trading System with APIs](https://github.com/deawyk/Automated-Trading-System-via-APIs/blob/main/automated%20trading%20tda%20api.py)
 **A trading bot that trades stocks for you using TD Ameritrade API in Python.**
     
-I used [tda-api](https://pypi.org/project/tda-api/) for most trading actions. The stock and time interval to trade at is determined by user input. Investment strategies are altered accordingly. Here, I bought and sold stocks by setting RSI ([ta](https://technical-analysis-library-in-python.readthedocs.io/en/latest/) for financial ratios) thresholds to trigger action. I automated the process end-to-end by importing Selenium and Chrome Driver for automatic login.
+I used [tda-api](https://pypi.org/project/tda-api/) for most trading actions. User determined choice of stock, trading interval, and investment strategies. Here, I bought and sold stocks by setting RSI ([ta](https://technical-analysis-library-in-python.readthedocs.io/en/latest/) for financial ratios) thresholds as triggers. Process was automated end-to-end by importing Selenium and Chrome Driver for automatic login.
 <img src="{{ site.baseurl }}/assets/img/git.tb1.png">
     
     
 ### [Customer Segmentation with K-means](https://github.com/deawyk/Customer-Segmentation-via-KMeans/blob/main/CS_KMeans.ipynb)
 **Customer segmentation and cohort analysis on real retail data using k-means clustering.**
     
-I cleaned and explored over 500k records of retail data from an UK based online store. Prices in GBP was dynamically converted based on fx rate at date of purchase ([currency converter](https://pypi.org/project/CurrencyConverter/)). Behavioural analysis was conducted on each cohort; average purchase value, customer value, CLV, were determined to draw further insights. My heuristic approach to segmentation using RFM was compared to the definitive k-means algorithm (minimizes within cluster variances). Tellingly, the unsupervised ML output had 69% congruence to the heuristic approach. Presentation was visual heavy and intended for business-oriented audience.<br>
+I cleaned and explored over 500k records of retail data from an UK based online store. Prices in GBP was dynamically converted based on fx rate at date of purchase ([currency converter](https://pypi.org/project/CurrencyConverter/)). Behavioural analysis was conducted on each cohort; CLV and other metrics drew further insights. My heuristic approach through RFM segmentation was compared to the definitive k-means algorithm (minimizes within cluster variances). Tellingly, the unsupervised ML output had 69% congruence to the heuristic approach, with major differences. Presentation was intended for a business-oriented audience.<br>
 <i class='fa fa-file-text'></i>[Customer Segmentation Presentation](/assets/pdf/git.customerseg.pdf)
 <img src="{{ site.baseurl }}/assets/img/git.cs1.png">
 
@@ -39,7 +39,7 @@ I cleaned and explored over 500k records of retail data from an UK based online 
 ### [Google BigQuery ETL and KPI Dashboard](https://github.com/deawyk/Google-Analytics-KPIs-via-Google-BigQuery/blob/main/BigQuery%20Script.sql)
 **A high-level to granular dashboard in Tableau using Google BigQuery ETL from Google Analytics Sample data.**
     
-I wrote SQL-like queries for the metrics: Total Pageviews, Total Unique Pageviews, Total Entrances, Total Exits, Total Time on Page, Total Sessions, and Total Bounces.<br>
+I wrote SQL-like queries for the metrics: Total Pageviews, Total Unique Pageviews, Total Entrances, Total Exits, Total Time on Page, Total Sessions, and Total Bounces. Presented business intelligence using Tableau. <br>
 [Google Merchandise Store Dashboard](https://public.tableau.com/views/gms_16221492319430/1?:language=en-US&:display_count=n&:origin=viz_share_link)
 <img src="{{ site.baseurl }}/assets/img/git.ga1.png">          
 
@@ -47,7 +47,7 @@ I wrote SQL-like queries for the metrics: Total Pageviews, Total Unique Pageview
 ### [Comprehensive Webscraping with Regex](https://github.com/deawyk/Webscraping-Three-Ways/blob/main/pipeline.py)
 **Webscraping using Regex, Selenium, BeautifulSoup to download financial data into workable dataframes.**
     
-I built data pipelines for three diversely formatted sites to compile stock market data via [yfinance](https://pypi.org/project/yfinance/), with emphasis on regex.
+Built data pipelines for three diversely formatted sites to compile data via [yfinance](https://pypi.org/project/yfinance/), with emphasis on regex.
 <img src="{{ site.baseurl }}/assets/img/git.ws2.png">
     
 ---
