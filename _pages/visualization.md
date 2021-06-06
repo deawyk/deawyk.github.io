@@ -27,7 +27,7 @@ permalink: /visualization/
 
     
 ### Power BI
-    Skilled in DAX, Calculated Groups, Time Intelligence
+    Tools: DAX, Calculated Groups, Time Intelligence
     
 <img src="{{ site.baseurl }}/assets/img/git.bi1.png">
 <img src="{{ site.baseurl }}/assets/img/git.bi2.png">
