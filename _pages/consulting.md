@@ -27,7 +27,7 @@ permalink: /consulting/
 ---
 
 
-### Futur Consulting
-I founded _Futur Consulting_ on the back of my extended experience transitioning between schools, countries, and careers. We help our clients assess their life, narrow down their options, pinpoint their goals, and follow up on their committments. 
+### College Admissions Consulting
+_Futur Consulting_ was founded on the back of my extended experience transitioning between schools, environments, and careers. We run workshops to help our clients perfect their Personal Statement/Admissions Essay/CV; and provide research and expertise on the application process for their target schools. Our clients receive long-term support through mentorship programs to follow up on their committments. 
 </div>    
  
