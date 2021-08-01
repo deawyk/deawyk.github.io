@@ -28,6 +28,6 @@ permalink: /consulting/
 
 
 ### College Admissions Consulting
-_Futur Consulting_ was founded on the back of my extended experience transitioning between schools, environments, and careers. We run multi-session 9 hours workshops to help our clients perfect their Personal Statement, Admissions Essay, and/or CV. We provide research and expertise during the application process for their target schools. Our clients also receive long-term mentorship as we continue to follow up on their committments. 
+_Futur Consulting_ was founded on the back of my extended experience transitioning between schools, countries, and careers. We specialize in individualized writing workshops for our clients to craft their Personal Statement, Admission Essay, or Resume/CV. We provide research and expertise throughout their application process for their target school(s). Our clients also receive long-term mentorship as we continue to follow up on their commitments. 
 </div>    
  
