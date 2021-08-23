@@ -12,8 +12,6 @@ permalink: /consulting/
 
 
 ### [My Medium Blog](https://deaw.medium.com/)<br>
-<br>
-
 ---
     
 ### [Pro Bono Consulting](https://www.catchafire.org/profiles/1474308/)<br>
