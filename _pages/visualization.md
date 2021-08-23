@@ -8,12 +8,10 @@ permalink: /visualization/
 
 <div class="pretty-links">
 
-<div class="lead lead-about"> The best minds of my generation are thinking about how to make people click ads.
-    <br>
-<div style="text-align: right">Jeff Hammerbacher<br>(Data Scientist, Cloudera co-founder)
-</div>
+<div class="lead lead-about">     There are three classes of people: those who see, those who see when shown, and those that do not see.<br>
+<div style="text-align: right"> Leonardo Da Vinci
 <div style="text-align: left">
-
+    
 <!-- {::nomarkdown} 
 <figure class="site-profile">
     <img src="{{ site.baseurl }}/assets/img/profile.png">
