@@ -15,8 +15,6 @@ title: Dea Wang
 
 <div class="lead lead-about">
     
-<br>
-
 Hi and welcome! 
 
 I'm a full-stack Data and Business Analyst with industry experience in real estate & infrastructure and media.
