@@ -11,10 +11,10 @@ permalink: /consulting/
 <div class="lead lead-about">
 
 
-### [My Medium Blog] (https://deaw.medium.com/)<br>
+### [My Medium Blog](https://deaw.medium.com/)<br>
 ---
     
-### [Data Analytics Consulting] (https://www.catchafire.org/profiles/1474308/)<br>
+### [Data Analytics Consulting](https://www.catchafire.org/profiles/1474308/)<br>
 <img src="{{ site.baseurl }}/assets/img/git.catchafire.png"/>
 
 
@@ -29,7 +29,7 @@ permalink: /consulting/
 ---
 
 
-### [College Admissions Consulting] (https://calendly.com/deaw/fit-interview)
+### [College Admissions Consulting](https://calendly.com/deaw/fit-interview)
 _Futur Consulting_ was founded on the back of my extensive experience transitioning between schools, countries, and industries. We specialize in individualized writing workshops for our clients to craft their Personal Statement, Admission Essay, or Resume/CV. We provide research and expertise throughout their application process for their target schools. Our clients also receive long-term mentorship as we continue to follow up on their commitments. 
 </div>    
  
