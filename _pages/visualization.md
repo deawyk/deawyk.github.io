@@ -23,8 +23,6 @@ permalink: /visualization/
 
     
 ---
-### [Tableau](https://public.tableau.com/profile/dea.wang#!/)
-
     
 ### Power BI
     Tools: DAX, Calculated Groups, Time Intelligence
@@ -35,6 +33,9 @@ permalink: /visualization/
 <img src="{{ site.baseurl }}/assets/img/git.viz1_1.png">
 <img src="{{ site.baseurl }}/assets/img/git.viz2.png">
 
+    
+### [Tableau](https://public.tableau.com/profile/dea.wang#!/)
+    
 ### Excel
-<img src="{{ site.baseurl }}/assets/img/git.vizexcel1.png">
 <img src="{{ site.baseurl }}/assets/img/git.vizexcel2.png">
+<img src="{{ site.baseurl }}/assets/img/git.vizexcel1.png">
