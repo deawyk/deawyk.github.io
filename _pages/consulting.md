@@ -11,6 +11,11 @@ permalink: /consulting/
 <div class="lead lead-about">
 
 
+### [My Medium Blog](https://deaw.medium.com/)<br>
+<br>
+
+---
+    
 ### [Pro Bono Consulting](https://www.catchafire.org/profiles/1474308/)<br>
 <img src="{{ site.baseurl }}/assets/img/git.catchafire.png"/>
 
