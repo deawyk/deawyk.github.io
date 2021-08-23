@@ -12,7 +12,6 @@ permalink: /consulting/
 
 
 ### [Pro Bono Consulting](https://www.catchafire.org/profiles/1474308/)<br>
-***Catchafire.org***
 <img src="{{ site.baseurl }}/assets/img/git.catchafire.png"/>
 
 
