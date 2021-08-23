@@ -9,8 +9,8 @@ permalink: /project/
 <div class="pretty-links">
 
     
-<div class="lead lead-about">There are three classes of people: those who see, those who see when shown, and those that do not see.<br>
-<div style="text-align: right"> Leonardo Da Vinci
+<div class="lead lead-about">Have patience. <br>
+    Leonardo Da Vinci called it "sfumato" (smoke). It's the idea that not everything is clear, and the desire to have an answer can lead someone into error. Intelligence is signified by having patience with difficult, dense, or even ambiguous or vague subjects, and showing resilience when presented with unclear, indefinite questions or answers. 
 <div style="text-align: left">
     
 <!-- {::nomarkdown} 
@@ -53,9 +53,9 @@ Built data pipelines for three diversely formatted sites to compile data via [yf
 ---
     
 ### Conclusion
-<p> As a data analyst, the goal is simply *to see*. Amongst an inordinate amount of KPIs, my goal is to identify the disproportionately valuable ones which drive the biggest impact. Often, they are the ones to get the most pushback cross-departments. They are also the most difficult and stubborn KPIs to move.<br>
+<p> As an analyst, the goal is simply *to see*. Amongst an inordinate amount of KPIs, my goal is to identify the disproportionately valuable ones which drive the biggest impact. Often, they are the ones to get the most pushback interdepartments. They are also the most difficult and stubborn KPIs to move.<br>
     
-I like to lay groundwork by learning from and interviewing subject-matter experts to get a clear definition of the business problem. Then, data become my solutions book. I'll iterate, incrementally improve, and apply creativity in pursuit of a resolve, having some _Aha_ moments along the way.<br>
+In my everyday work, I lay groundwork by interviewing and learning from subject-matter experts to get a clear definition of the business problem. Then, data become my solutions book. I'll iterate, incrementally improve, and apply creativity on my endeavor to a resolve, providing _Aha_ moments along the way.<br>
     
-The beauty of data is that it is falseless and fair. How well data help businesses grow largely depend on the application.</p>
+The beauty of data is that it is falseless and fair. How well data help businesses grow largely depend on their application.</p>
 
