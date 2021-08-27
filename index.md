@@ -17,6 +17,7 @@ title: Dea Wang
     
 <br> 
 Hi and welcome! 
+    
 I'm a full-stack Product and Business Analyst with industry experience in real estate & infrastructure and media.
 
 My object is to yield clairvoyance in decision making and I work to design these provably optimal solutions. At night, I read, tinker with new ideas, and [write them down](https://deaw.medium.com/). <br>
