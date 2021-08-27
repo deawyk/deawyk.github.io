@@ -19,7 +19,7 @@ title: Dea Wang
 Hi and welcome! 
 I'm a full-stack Product and Business Analyst with industry experience in real estate & infrastructure and media.
 
-My object is to yield clairvoyance in decision making and I work to design these provably optimal solutions. At night, I read, tinker with new ideas, and [write them down](https://deaw.medium.com/). <br>
+My object is to yield clairvoyance in decision making and I work to find fast and provably optimal solutions. At night, I read, tinker with new ideas, and [write them down](https://deaw.medium.com/). <br>
     
 My favourite sources for open data: [Statista](https://www.statista.com/studies-and-reports/industries), [CBRE](https://www.cbre.ca/en/research-and-reports), [Product Hunt](https://www.producthunt.com/), [Chartmetric](https://www.chartmetric.com/music-industry-trends/6mo-report), [VC](https://www.visualcapitalist.com).
 
