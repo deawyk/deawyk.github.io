@@ -23,7 +23,7 @@ I work to yield clairvoyance in decision making, to find fast and provably optim
     
 My favorite sources for open data: [Statista](https://www.statista.com/studies-and-reports/industries), [CBRE](https://www.cbre.ca/en/research-and-reports), [Product Hunt](https://www.producthunt.com/), [Chartmetric](https://www.chartmetric.com/music-industry-trends/6mo-report), [VC](https://www.visualcapitalist.com).
 
-My favorite pices of writing: [Self-Optimization](https://www.theguardian.com/news/2019/aug/02/athleisure-barre-kale-tyranny-ideal-woman-labour), [The High Is Always the Pain...](https://themorningnews.org/article/the-high-is-always-the-pain-and-the-pain-is-always-the-high), [How to Do What You Love](http://www.paulgraham.com/love.html).
+My favorite pieces of writing: [Self-Optimization](https://www.theguardian.com/news/2019/aug/02/athleisure-barre-kale-tyranny-ideal-woman-labour), [The High Is Always the Pain...](https://themorningnews.org/article/the-high-is-always-the-pain-and-the-pain-is-always-the-high), [How to Do What You Love](http://www.paulgraham.com/love.html).
     
 Help me on my quest to meet 50 new people this year by clicking [Here](https://calendly.com/deaw/coffee)!
 </div>
