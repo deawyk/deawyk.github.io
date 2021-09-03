@@ -11,7 +11,7 @@ permalink: /project/
     
 <div class="lead lead-about">Have patience. <br>
     
-"Sfumato" or smoke, is the idea that not everything is clear, and the desire to have an answer can lead someone into error. Intelligence is signified by having patience with difficult, dense, ambiguous, or vague subjects, and showing resilience when presented with unclear, indefinite questions or answers[.](https://mikeschoultz.medium.com/what-makes-someone-a-gifted-person-b6133a127038) 
+"Sfumato", or smoke, is the idea that not everything is clear and the desire to have an answer can lead into error. Intelligence is signified by having patience with difficult, dense, ambiguous, or vague subjects, and showing resilience when presented with unclear, indefinite questions or answers[.](https://mikeschoultz.medium.com/what-makes-someone-a-gifted-person-b6133a127038) 
 <div style="text-align: left">
     
 <!-- {::nomarkdown} 
