@@ -23,7 +23,7 @@ My object is to yield clairvoyance in decision making and to build provably opti
     
 My favourite sources for open data: [Statista](https://www.statista.com/studies-and-reports/industries), [GDELT](https://www.gdeltproject.org/), [CBRE](https://www.cbre.ca/en/research-and-reports), [Chartmetric](https://www.chartmetric.com/music-industry-trends/6mo-report), [Product Hunt](https://www.producthunt.com/).
 
-My favourite essays: [The Ideal Woman](https://www.theguardian.com/news/2019/aug/02/athleisure-barre-kale-tyranny-ideal-woman-labour), [The High Is Always the Pain](https://themorningnews.org/article/the-high-is-always-the-pain-and-the-pain-is-always-the-high), [How to Do What You Love](http://www.paulgraham.com/love.html).
+My favourite essays: [Self-Optimization](https://www.theguardian.com/news/2019/aug/02/athleisure-barre-kale-tyranny-ideal-woman-labour), [The High Is Always the Pain](https://themorningnews.org/article/the-high-is-always-the-pain-and-the-pain-is-always-the-high), [How to Do What You Love](http://www.paulgraham.com/love.html).
     
     
     
