@@ -54,9 +54,9 @@ Built data pipelines for three diversely formatted sites to compile data via [yf
 ---
     
 ### Conclusion
-<p> As an analyst, the goal is simply *to see*. Amongst an inordinate amount of KPIs, my goal is to identify the disproportionately valuable ones which drive the biggest impact. Often, they are the ones to get the most pushback interdepartments. They are also the most difficult and stubborn KPIs to move.<br>
+<p> Amongst the inordinate amount of KPIs, my goal is identify the disproportionately valuable ones which drive the biggest impact. Often, they are the ones that get the most pushback cross-departments, and also the most difficult and stubborn KPIs to move.<br>
     
-In my everyday work, I lay groundwork by interviewing and learning from subject-matter experts to get a clear definition of the business problem. Then, data become my solutions book. I'll iterate, incrementally improve, and apply creativity on my endeavor to a resolve, providing _Aha_ moments along the way.<br>
+I like to first lay the groundwork by interviewing and learning from SMEs to get a clear definition of the business problem. Then, data become my solutions book. I'll iterate for incremental improvements, applying some creativity along the way.<br>
     
 The beauty of data is that it is falseless and fair. How well data help businesses grow largely depend on their application.</p>
 
