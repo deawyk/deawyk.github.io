@@ -27,7 +27,7 @@ My favourite essays: [Self-Optimization](https://www.theguardian.com/news/2019/a
     
     
     
-Help me on my quest of meeting 52 new people this year [here](https://calendly.com/deaw/coffee)!
+Help me on my quest to meeting 52 new people this year [here](https://calendly.com/deaw/coffee)!
 </div>
 
 
