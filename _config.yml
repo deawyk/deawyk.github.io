@@ -28,16 +28,16 @@ paginate_path: "/articles/page:num/"  # link scheme for articles, should be letf
 # > Title is the tile of the navigation item, url the url and desc is the tooltip
 navigation:
   - title: Projects
-    url: /project/
-    desc: My portfolio projects
-  - title: Visualizations
-    url: /visualization/
+    url: /pj/
+    desc: My projects
+  - title: BI Developer
+    url: /bi/
     desc: Visualizations I ETLed and developed
-  - title: Consulting
-    url: /consulting/
+  - title: Pro Bono
+    url: /pb/
     desc: Hustling for social good
   - title: <i class='fa fa-file-text'></i> CV
-    url: /assets/pdf/DW Resume Web.pdf
+    url: 
 
 # Used by Jekyll to recognize what is a post and what is a page
 defaults:
