@@ -11,7 +11,7 @@ permalink: /consulting/
 <div class="lead lead-about">
 
     
-### [Work for Non-profits](https://www.catchafire.org/profiles/1474308/)<br>
+### [Non-profits](https://www.catchafire.org/profiles/1474308/)<br>
 <img src="{{ site.baseurl }}/assets/img/git.catchafire.png"/>
 
 
