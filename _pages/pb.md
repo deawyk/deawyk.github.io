@@ -3,7 +3,7 @@ layout: page
 title: Pro Bono
 # subtitle: I am a smart heading.
 desc: Hustling for social good.
-permalink: /consulting/
+permalink: /pb/
 ---
 
 <div class="pretty-links">
