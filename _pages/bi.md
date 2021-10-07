@@ -3,7 +3,7 @@ layout: page
 title: BI Developer
 # subtitle: I am a smart heading.
 desc: Visualizations I ETLed and developed.
-permalink: /visualization/
+permalink: /bi/
 ---
 
 <div class="pretty-links">
