@@ -29,5 +29,5 @@ Time Intelligence
 
 ### [Tableau](https://public.tableau.com/profile/dea.wang#!/)
     
-<iframe src="https://public.tableau.com/app/profile/dea.wang/viz/WorldBankLinkedInInsights/StoryInsights?:showVizHome=no&:embed=true"
- width="1080" height="1920"></iframe>
+<iframe src="https://public.tableau.com/app/profile/dea.wang/viz/WorldBankLinkedInInsights/StoryInsights?:showVizHome=no&:display_count=no&:embed=true"
+ width="745" height="1080" frameborder="0" scrolling="no"></iframe>
