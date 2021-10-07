@@ -20,19 +20,11 @@ permalink: /visualization/
 
     
 ---
-    
-### Power BI
-    Tools: DAX, Calculated Groups, Time Intelligence
-    
-<img src="{{ site.baseurl }}/assets/img/git.bi1.png">
-<img src="{{ site.baseurl }}/assets/img/git.bi2.png">
-<img src="{{ site.baseurl }}/assets/img/git.viz1.png">
-<img src="{{ site.baseurl }}/assets/img/git.viz1_1.png">
-<img src="{{ site.baseurl }}/assets/img/git.viz2.png">
-
-    
 ### [Tableau](https://public.tableau.com/profile/dea.wang#!/)
     
-### Excel
-<img src="{{ site.baseurl }}/assets/img/git.vizexcel2.png">
-<img src="{{ site.baseurl }}/assets/img/git.vizexcel1.png">
+### Power BI
+DAX, Calculated Groups 
+<img src="{{ site.baseurl }}/assets/img/git.bi1.png">
+
+Time Intelligence   
+<img src="{{ site.baseurl }}/assets/img/git.bi2.png">
