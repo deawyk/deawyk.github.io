@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Consulting
+title: Pro Bono
 # subtitle: I am a smart heading.
 desc: Hustling for social good.
 permalink: /consulting/
@@ -11,7 +11,7 @@ permalink: /consulting/
 <div class="lead lead-about">
 
     
-### [Data Analytics Consulting](https://www.catchafire.org/profiles/1474308/)<br>
+### [Work for Non-profits](https://www.catchafire.org/profiles/1474308/)<br>
 <img src="{{ site.baseurl }}/assets/img/git.catchafire.png"/>
 
 
@@ -26,7 +26,7 @@ permalink: /consulting/
 ---
 
 
-### [College Admissions Consulting](https://calendly.com/deaw/fit-interview)
-_Futur Consulting_ was founded on the back of my extensive experience transitioning between schools, countries, and industries. We specialize in individualized writing workshops for our clients to craft their Personal Statement, Admission Essay, or Resume/CV. We provide research and expertise throughout their application process for their target schools. Our clients also receive long-term mentorship as we continue to follow up on their commitments. 
+### Future Consulting
+We specialize in individualized writing workshops for our clients, most of which are new immigrants, to craft their Personal Statement, Admission Essay, and/or Resume/CV. We provide research and expertise throughout their application process for their target company/school. Our clients also receive long-term mentorship as we continue to follow up on their commitments. 
 </div>    
  
