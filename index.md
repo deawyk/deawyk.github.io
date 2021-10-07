@@ -16,7 +16,8 @@ title: Dea Wang
 <div class="lead lead-about">
     
 <br> 
-Hi, I'm Dea! 
+Hi, I'm Dea!
+
 I'm a Consultant working at the intersection of Data Science and People Operations. Basically, I help people produce higher value work and have more fun. 
 
 In my spare time, I read, tinker with new ideas, and sometimes [write them down](https://deaw.medium.com/). <br>
