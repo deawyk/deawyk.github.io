@@ -17,7 +17,9 @@ title: Dea Wang
     
 <br> 
 Hi, I'm Dea! 
-I'm a Consultant working at the intersection of Data Science and People Operations. Basically, I help people produce higher value work and have more fun. In my spare time, I read, tinker with new ideas, and sometimes [write them down](https://deaw.medium.com/). <br>
+I'm a Consultant working at the intersection of Data Science and People Operations. Basically, I help people produce higher value work and have more fun. 
+
+In my spare time, I read, tinker with new ideas, and sometimes [write them down](https://deaw.medium.com/). <br>
     
 Here are some of my favourite hubs for open data: [GDELT](https://www.gdeltproject.org/), [Chartmetric](https://www.chartmetric.com/music-industry-trends/6mo-report), [Google](https://datasetsearch.research.google.com/).
 
