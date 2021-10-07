@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Visualizations
+title: BI Developer
 # subtitle: I am a smart heading.
 desc: Visualizations I ETLed and developed.
 permalink: /visualization/
@@ -28,6 +28,3 @@ Time Intelligence
 <img src="{{ site.baseurl }}/assets/img/git.bi2.png">
 
 ### [Tableau](https://public.tableau.com/profile/dea.wang#!/)
-    
-<iframe src="https://public.tableau.com/app/profile/dea.wang/viz/WorldBankLinkedInInsights/StoryInsights?:showVizHome=no&:display_count=no&:embed=true"
- width="745" height="1080" frameborder="0" scrolling="no"></iframe>
