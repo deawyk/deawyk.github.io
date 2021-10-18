@@ -27,7 +27,7 @@ h6 { font-size: $fs-h6; }
 
 // TEXT - UTILS ------------------
 .lead {
-  font-size: 0.8rem;
+  font-size: 1.25rem;
   line-height: 1.6;
   p { margin-bottom: 1.5rem; }
 }
@@ -49,7 +49,7 @@ small,
 }
 
 @include mq-up(md) {
-  .lead { font-size: 1.5rem; }
+  .lead { font-size: 1.0rem; }
 }
 
 // TEXT - CODE ------------------
