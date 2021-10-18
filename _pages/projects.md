@@ -3,7 +3,7 @@ layout: page
 title: Projects
 # subtitle: I am a smart heading.
 desc: My portfolio projects.
-permalink: /pj/
+permalink: /projects/
 ---
 
 <div class="pretty-links">
