@@ -20,11 +20,11 @@ permalink: /visualizations/
 
     
 --- 
-### Power BI
+## Power BI
 DAX, Calculated Groups 
 <img src="{{ site.baseurl }}/assets/img/git.bi1.png">
 
 Time Intelligence   
 <img src="{{ site.baseurl }}/assets/img/git.bi2.png">
 
-### [Tableau](https://public.tableau.com/profile/dea.wang#!/)
+## [Tableau](https://public.tableau.com/profile/dea.wang#!/)
