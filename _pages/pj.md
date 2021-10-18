@@ -22,12 +22,12 @@ permalink: /pj/
 
 ---
 ### <i class='fa fa-file-text'></i>[Return-to-Office Recommender](/assets/pdf/git.o2analytics.pdf)
-**Building a recommender system to classify and predict workplace health & safety and exigency of returning to office admist COVID.
+**Building a recommender system to classify and predict workplace health & safety and exigency of returning to office admist COVID.**
 <img src="{{ site.baseurl }}/assets/img/git.o2analytics.png">
 <br>  
     
 ### [Talent Migration and Time Series Forecasting](https://public.tableau.com/app/profile/dea.wang/viz/WorldBankLinkedInInsights/StoryInsights)
-**A predictive model that forecasts country, industry, and skills migration of talents globally. 
+**A predictive model that forecasts country, industry, and skills migration of talents globally.** 
 <img src="{{ site.baseurl }}/assets/img/git.talentmigration.png">
 <br>  
     
