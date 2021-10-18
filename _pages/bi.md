@@ -1,14 +1,14 @@
 ---
 layout: page
-title: BI Developer
+title: Visualizations
 # subtitle: I am a smart heading.
 desc: Visualizations I ETLed and developed.
-permalink: /bi/
+permalink: /visualizations/
 ---
 
 <div class="pretty-links">
 <div class="lead lead-about">There are three classes of people: those who see, those who see when shown, and those that do not see. <br>
-<div style="text-align: right"> Leonardo Da Vinci
+<div style="text-align: right"> - Leonardo Da Vinci
 <div style="text-align: left">
     
 <!-- {::nomarkdown} 
