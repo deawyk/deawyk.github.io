@@ -21,7 +21,7 @@ permalink: /pj/
 {:/} -->
 
 ---
-<i class='fa fa-file-text'></i>### [Return-to-Office Recommender Prototype](/assets/pdf/git.o2analytics.pdf)
+### <i class='fa fa-file-text'></i>[Return-to-Office Recommender Prototype](/assets/pdf/git.o2analytics.pdf)
 <img src="{{ site.baseurl }}/assets/img/git.o2analytics.png">
 <br>  
     
