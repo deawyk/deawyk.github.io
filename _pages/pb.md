@@ -27,6 +27,6 @@ permalink: /pb/
 
 
 ### Future Consulting
-We specialize in individualized writing workshops for our clients, most of which are new immigrants, to craft their Personal Statement, Admission Essay, and/or Resume/CV. We provide research and expertise throughout their application process for their target company/school. Our clients also receive long-term mentorship as we continue to follow up on their commitments. 
+**Future Consulting** is built on my extensive experience transitioning between schools, careers, and countries. We provide individualized writing workshops for our clients, many of which are new immigrants, to craft their Personal Statement, Admission Essay, and/or Resume/CV for their target company/school. Our clients also receive long-term mentorship as we continue to coach them and follow up with their commitments. 
 </div>    
  
