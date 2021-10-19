@@ -11,9 +11,9 @@ permalink: /projects/
     
 <div class="lead lead-about">
 
-These projects generally take 1-3 weeks to complete (My bandwidth for long-term projects is reserved for work). Project ideation is rather spontaneous, usually wherever there is personal interest, time, and an learning opportunity.
+I generally spend 1-2 weeks working on each project (My bandwidth for long-term projects is strictly reserved for work). The ideation process is spontaneous, usually whenever personal interest, time, and an learning opportunity align.
 
-I veer toward human problems that deal with vague, ambiguous subjects; and present indefinite answers and often even more questions. Working through them has given me more patience, resilience, and ease with uncertainty. 
+I veer toward human problems that deal with vague, ambiguous subjects, and present indefinite answers, often even more questions. Working through them has given me more patience, resilience, and ease with uncertainty. 
     
 <div style="text-align: left">
     
