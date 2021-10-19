@@ -68,9 +68,7 @@ Amongst an inordinate amount of KPIs, I identified the disproportionately valuab
     
     
 ## [Webscraping Three Ways](https://github.com/deawyk/Webscraping-Three-Ways/blob/main/pipeline.py)
-**Webscraping using Regex, Selenium, BeautifulSoup to download financial data into workable dataframes.**
-    
-Built data pipelines for three diversely formatted sites to compile data via [yfinance](https://pypi.org/project/yfinance/), with emphasis on regex.
+**Built pipelines for three diversely formatted websites using regex, Selenium, BeautifulSoup respectively to compile financial data ([yfinance](https://pypi.org/project/yfinance/)) into workable dataframes, with emphasis on regex.
     
 ---
 
