@@ -16,7 +16,7 @@ title: Dea Wang
 <div class="lead lead-about">
     
 <br> 
-Hello and welcome! I'm Dea, a Data Science Consultant specializing in Human Capital/People Operations. Basically, I help people focus on higher value work and help organizations focus on their people. 
+Hello! I'm Dea, a Data Science Consultant specializing in Human Capital/People Operations. Basically, I help people focus on higher value work and organizations focus on their people. 
 
 In my downtime, I read, tinker with new ideas, and sometimes [write them down](https://deaw.medium.com/). <br>
     
