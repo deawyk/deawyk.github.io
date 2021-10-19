@@ -36,7 +36,7 @@ I veer toward human problems that often deal with dense, ambiguous subjects; and
 ## <i class='fa fa-file-text'></i>[Return-to-Office Recommender](/assets/pdf/git.o2analytics.pdf)
 **Building a recommender system to classify and predict workplace health & safety and exigency of return-to-office admist the pandemic.**
 
-Draft of Our Product Pitch
+**Prototype Pitch Draft**
 <img src="{{ site.baseurl }}/assets/img/git.office.png">
 <br>  
 
