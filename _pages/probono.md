@@ -27,6 +27,6 @@ permalink: /probono/
 
 
 ## Future Consulting
-**Future Consulting** is built on my extensive experience transitioning between schools, careers, and countries. We provide individualized writing workshops for our clients, many of which are new immigrants, to craft their Personal Statement, Admission Essay, and/or Resume/CV for their target company/school. Our clients also receive long-term mentorship as we continue to coach them and follow up with their commitments. 
+**Future Consulting** was built on my extensive experience transitioning between schools, careers, and countries. We provide individualized writing workshops for our clients, many of which are new immigrants, to craft their Personal Statement, Admission Essay, and/or Resume/CV for their target companies/schools. Our clients also receive long-term mentorship as we continue to coach them and follow up on their commitments. 
 </div>    
  
