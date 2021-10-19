@@ -11,9 +11,9 @@ permalink: /projects/
     
 <div class="lead lead-about">
 
-I generally spend 1-2 weeks working on each project (My bandwidth for long-term projects is strictly reserved for work). The ideation process is spontaneous, usually whenever personal interest, time, and an learning opportunity align.
+I generally spend 1-2 weeks working on each project. (My bandwidth for long-term projects is strictly reserved for work). The ideation process is spontaneous, usually when personal interest, time, and an learning opportunity align.
 
-I veer toward human problems that often deal with dense, ambiguous subjects; and present indefinite answers and even more questions. Working through them has made me more comfortable with uncertainty.
+I veer toward human problems that often deal with dense, ambiguous subjects; and present indefinite answers and sometimes even more questions. It's made me more comfortable with uncertainty.
     
 <div style="text-align: left">
     
@@ -29,14 +29,15 @@ I veer toward human problems that often deal with dense, ambiguous subjects; and
 
 <img src="{{ site.baseurl }}/assets/img/git.talentmigration1.png">
 
-**Forecasting Model Demo**
+Forecasting Model Demo
 <img src="{{ site.baseurl }}/assets/img/git.talentmigration2.png">    
 <br>  
     
+
 ## <i class='fa fa-file-text'></i>[Return-to-Office Recommender](/assets/pdf/git.o2analytics.pdf)
 **Building a recommender system to classify and predict workplace health & safety and exigency of return-to-office admist the pandemic.**
 
-**Prototype Pitch Draft**
+Prototype Pitch Draft
 <img src="{{ site.baseurl }}/assets/img/git.office.png">
 <br>  
 
@@ -51,17 +52,18 @@ I wrote multiple Classes for trading actions using [tda-api](https://pypi.org/pr
 **Customer segmentation and cohort analysis on real retail data using k-means clustering.**
     
 Cleaned and explored over 500k records of real retail data from an UK based online store. Dynamically converted prices in GBP based on fx rate at date of purchase ([currency converter](https://pypi.org/project/CurrencyConverter/)); conducted behavioural analysis (CLV etc.) on each cohort. My heuristic approach using RFM segmentation was analyzed against outputs from k-means algorithm (minimizes within cluster variances), which resulted in 69% congruence. I focused my presentation on defining the busines problem and giving recommendations for action.<br>
+
 <i class='fa fa-file-text'></i>[Customer Segmentation Presentation](/assets/pdf/git.customerseg.pdf)
 <img src="{{ site.baseurl }}/assets/img/git.cs1.png">
 <br>
     
     
-## [Google Cloud Platform ETL and BI Reporting](https://github.com/deawyk/Google-Analytics-KPIs-via-Google-BigQuery/blob/main/BigQuery%20Script.sql)
+## [Google Cloud Platform ETL and BI](https://github.com/deawyk/Google-Analytics-KPIs-via-Google-BigQuery/blob/main/BigQuery%20Script.sql)
 **Tableau report composed of three dashboards outlining high-level, ad-hoc, and KPI needs.**
     
 Amongst the inordinate amount of KPIs, I tried to identify the disproportionately valuable ones which drive the biggest impact. Using Google BigQuery and Google Analytics Sample data, I wrote SQL-like queries for the metrics: Total Pageviews, Total Unique Pageviews, Total Entrances, Total Exits, Total Time on Page, Total Sessions, and Total Bounces.<br>
-[Google Merchandise Store Dashboard](https://public.tableau.com/views/gms_16221492319430/1?:language=en-US&:display_count=n&:origin=viz_share_link)
-<img src="{{ site.baseurl }}/assets/img/git.ga1.png">          
+
+[Google Merchandise Store Dashboard](https://public.tableau.com/views/gms_16221492319430/1?:language=en-US&:display_count=n&:origin=viz_share_link)        
 <br>
     
     
