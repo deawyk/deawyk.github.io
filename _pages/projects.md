@@ -59,7 +59,7 @@ I performed EDA of 500k records of retail data from an UK based online store, co
     
     
 ## [Google Cloud Platform ETL and BI](https://github.com/deawyk/Google-Analytics-KPIs-via-Google-BigQuery/blob/main/BigQuery%20Script.sql)
-**Report and three dashboards outlining high-level, ad-hoc, and KPI needs.**
+**Comprehensive report and three dashboards outlining high-level, ad-hoc, and KPI needs.**
     
 Amongst an inordinate amount of KPIs, I identified the disproportionately valuable ones which drive the biggest impact. Using Google BigQuery and Google Analytics Sample data, I wrote SQL-like queries for the metrics: Total Pageviews, Total Unique Pageviews, Total Entrances, Total Exits, Total Time on Page, Total Sessions, and Total Bounces.<br>
 
@@ -68,7 +68,9 @@ Amongst an inordinate amount of KPIs, I identified the disproportionately valuab
     
     
 ## [Webscraping Three Ways](https://github.com/deawyk/Webscraping-Three-Ways/blob/main/pipeline.py)
-**Built data pipelines for three diversely formatted websites using regex, Selenium, BeautifulSoup to compile financial data ([yfinance](https://pypi.org/project/yfinance/)) into workable dataframes, with emphasis on regex.**
+**Webscraping using Regex, Selenium, and BeautifulSoup.**
+
+Built data pipelines for three diversely formatted sites to compile financial data ([yfinance](https://pypi.org/project/yfinance/)) into workable dataframes, with emphasis on regex.
     
 ---
 
