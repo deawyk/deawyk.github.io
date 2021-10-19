@@ -29,7 +29,7 @@ I veer toward human problems that deal with vague, ambiguous subjects, and prese
 
 <img src="{{ site.baseurl }}/assets/img/git.talentmigration1.png">
 
-Forecasting Model (Demo)
+**Forecasting Model Demo**
 <img src="{{ site.baseurl }}/assets/img/git.talentmigration2.png">    
 <br>  
     
