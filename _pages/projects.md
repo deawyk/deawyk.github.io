@@ -44,8 +44,8 @@ Prototype Pitch Draft
 ## [Automated Trading System with APIs](https://github.com/deawyk/Automated-Trading-System-via-APIs/blob/main/automated%20trading%20tda%20api.py)
 **A trading bot that trades stocks for you using TD Ameritrade API in Python.**
     
-I wrote multiple Classes for trading actions using [tda-api](https://pypi.org/project/tda-api/). The stock, trading interval, and investment strategy of choice is user-determined. In the example, I used RSI or EMA thresholds ([ta](https://technical-analysis-library-in-python.readthedocs.io/en/latest/) for financial ratios) to trigger actions. Process was automated end-to-end with Selenium.
-<br>    
+I wrote multiple Classes for trading actions using [tda-api](https://pypi.org/project/tda-api/). The stock, trading interval, and investment strategy of choice is user-determined. In the example, I used RSI or EMA thresholds ([ta](https://technical-analysis-library-in-python.readthedocs.io/en/latest/) for financial ratios) to trigger actions. Process was automated end-to-end with Selenium.<br>    
+    
     
     
 ## [Customer Segmentation with Heurisitics and K-means](https://github.com/deawyk/Customer-Segmentation-via-KMeans/blob/main/CS_KMeans.ipynb)
