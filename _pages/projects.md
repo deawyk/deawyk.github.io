@@ -29,14 +29,14 @@ I veer toward human problems that deal with vague, ambiguous subjects, and prese
 
 <img src="{{ site.baseurl }}/assets/img/git.talentmigration1.png">
 
-**Forecasting Model (Demo)**
+Forecasting Model (Demo)
 <img src="{{ site.baseurl }}/assets/img/git.talentmigration2.png">    
 <br>  
     
 ## <i class='fa fa-file-text'></i>[Return-to-Office Recommender](/assets/pdf/git.o2analytics.pdf)
 **Building a recommender system to classify and predict workplace health & safety and exigency of return-to-office admist the pandemic.**
 
-Section of our Product Pitch
+Draft of Our Product Pitch
 <img src="{{ site.baseurl }}/assets/img/git.office.png">
 <br>  
 
