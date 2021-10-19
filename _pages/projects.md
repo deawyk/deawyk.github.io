@@ -13,7 +13,7 @@ permalink: /projects/
 
 I generally spend 1-2 weeks working on each project. (My bandwidth for long-term projects is strictly reserved for work). The ideation process is spontaneous, usually when personal interest, time, and an learning opportunity align.
 
-I veer toward human problems that often deal with dense, ambiguous subjects; and present indefinite answers and sometimes even more questions. It's made me more comfortable with uncertainty.
+I veer toward human problems that often deal with dense, ambiguous subjects; and present indefinite answers and sometimes more questions. It's made me more comfortable with uncertainty.
     
 <div style="text-align: left">
     
