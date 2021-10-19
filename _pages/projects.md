@@ -27,6 +27,7 @@ I veer toward human problems that deal with vague, ambiguous subjects, and prese
 ## [Talent Migration and Time Series Forecasting](https://public.tableau.com/app/profile/dea.wang/viz/WorldBankLinkedInInsights/StoryInsights)
 **A storyboard and predictive model that explains and forecasts country, industry, and skills migration of talents globally.** 
 <img src="{{ site.baseurl }}/assets/img/git.talentmigration1.png">
+Forecasting Model
 <img src="{{ site.baseurl }}/assets/img/git.talentmigration2.png">    
 <br>  
     
