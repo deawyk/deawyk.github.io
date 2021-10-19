@@ -51,8 +51,8 @@ I wrote multiple Classes for trading actions using [tda-api](https://pypi.org/pr
 ## [Customer Segmentation with Heurisitics and K-means](https://github.com/deawyk/Customer-Segmentation-via-KMeans/blob/main/CS_KMeans.ipynb)
 **Customer segmentation and cohort analysis on real retail data using k-means clustering.**
     
-I performed EDA of 500k records of retail data from an UK based online store, converted prices dynamically based on fx rate at time of purchase ([cc](https://pypi.org/project/CurrencyConverter/)), grouped cohorts, and conducted behavioural analysis. My heuristic approach using RFM segmentation was analyzed against k-means clustering. Output revealed 69% congruence.
-<br>
+I performed EDA of 500k records of retail data from an UK based online store, converted prices dynamically based on fx rate at time of purchase ([cc](https://pypi.org/project/CurrencyConverter/)), grouped cohorts, and conducted behavioural analysis. My heuristic approach using RFM segmentation was analyzed against results from k-means clustering, revealing 69% congruence.<br>
+    
 <i class='fa fa-file-text'></i>[Customer Segmentation Presentation](/assets/pdf/git.customerseg.pdf)
 <img src="{{ site.baseurl }}/assets/img/git.cs1.png">
 <br>
