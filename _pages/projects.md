@@ -9,9 +9,12 @@ permalink: /projects/
 <div class="pretty-links">
 
     
-<div class="lead lead-about">Have patience. <br>
+<div class="lead lead-about">
+
+These projects generally take 1-3 weeks to complete (My bandwidth for long-term projects is reserved for work). Project ideation is rather spontaneous, usually wherever there is personal interest, time, and an learning opportunity.
+
+I veer toward human problems that deal with vague, ambiguous subjects; and present indefinite answers and often even more questions. Working through them has given me more patience, resilience, and ease with uncertainty. 
     
-"Sfumato", or smoke, is the idea from Leonardo Da Vinci that not everything is clear and the desire to have an answer can lead into error. Intelligence is signified by having patience with difficult, dense, and/or ambiguous subjects, and showing resilience when presented with unclear, indefinite, questions and answers[.](https://mikeschoultz.medium.com/what-makes-someone-a-gifted-person-b6133a127038) 
 <div style="text-align: left">
     
 <!-- {::nomarkdown} 
@@ -21,16 +24,17 @@ permalink: /projects/
 {:/} -->
 
 ---
-## <i class='fa fa-file-text'></i>[Return-to-Office Recommender](/assets/pdf/git.o2analytics.pdf)
-**Building a recommender system to classify and predict workplace health & safety and exigency of returning to office admist COVID.**
-<img src="{{ site.baseurl }}/assets/img/git.o2analytics.png">
-<br>  
-    
 ## [Talent Migration and Time Series Forecasting](https://public.tableau.com/app/profile/dea.wang/viz/WorldBankLinkedInInsights/StoryInsights)
-**A predictive model that forecasts country, industry, and skills migration of talents globally.** 
-<img src="{{ site.baseurl }}/assets/img/git.talentmigration.png">
+**A storyboard and predictive model that explains and forecasts country, industry, and skills migration of talents globally.** 
+<img src="{{ site.baseurl }}/assets/img/git.talentmigration1.png">
+<img src="{{ site.baseurl }}/assets/img/git.talentmigration2.png">    
 <br>  
     
+## <i class='fa fa-file-text'></i>[Return-to-Office Recommender](/assets/pdf/git.o2analytics.pdf)
+**Building a recommender system to classify and predict workplace health & safety and exigency of return-to-office admist the pandemic.**
+<img src="{{ site.baseurl }}/assets/img/git.office.png">
+<br>  
+
 ## [Automated Trading System with APIs](https://github.com/deawyk/Automated-Trading-System-via-APIs/blob/main/automated%20trading%20tda%20api.py)
 **A trading bot that trades stocks for you using TD Ameritrade API in Python.**
     
@@ -61,7 +65,6 @@ Amongst the inordinate amount of KPIs, I tried to identify the disproportionatel
 **Webscraping using Regex, Selenium, BeautifulSoup to download financial data into workable dataframes.**
     
 Built data pipelines for three diversely formatted sites to compile data via [yfinance](https://pypi.org/project/yfinance/), with emphasis on regex.
-<img src="{{ site.baseurl }}/assets/img/git.ws2.png">
     
 ---
 
