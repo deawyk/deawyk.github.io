@@ -25,8 +25,8 @@ I veer toward people problems that often deal with vague, dense subjects, presen
 
 ---
 
-## [People Analytics / HR Analytics Lesson Plan](https://github.com/deawyk/HR-Analytics/blob/main/Geolocation%20Clustering%20Lesson%20Plan.ipynb)
-**A 3-eay lesson plan that combines all the widely used tools (Excel, Tableau, Jupyter Notebook) on the market and introduces students to HR Analytics and its applications.
+## [People & Talent Analytics](https://github.com/deawyk/HR-Analytics/blob/main/Geolocation%20Clustering%20Lesson%20Plan.ipynb)
+**A 3-day lesson plan that combines all the widely used tools (Excel, Tableau, Jupyter Notebook) on the market and introduces students to HR Analytics and its applications.**
 
     
 ## [Talent Migration and Time Series Forecasting](https://public.tableau.com/app/profile/dea.wang/viz/WorldBankLinkedInInsights/StoryInsights)
