@@ -25,7 +25,7 @@ I veer toward people problems that often deal with vague, dense subjects, presen
 
 ---
 
-## [People & Talent Analytics](https://github.com/deawyk/HR-Analytics/blob/main/Geolocation%20Clustering%20Lesson%20Plan.ipynb)
+## [People / Talent Analytics](https://github.com/deawyk/HR-Analytics/blob/main/Geolocation%20Clustering%20Lesson%20Plan.ipynb)
 **A 3-day lesson plan that combines all the widely used tools (Excel, Tableau, Jupyter Notebook) on the market and introduces students to HR Analytics and its applications.**
 
     
