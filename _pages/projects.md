@@ -30,7 +30,7 @@ I veer toward people problems that often deal with vague, dense subjects, presen
 
     
 ## [Talent Migration and Time Series Forecasting](https://public.tableau.com/app/profile/dea.wang/viz/WorldBankLinkedInInsights/StoryInsights)
-**Storytelling through data. A storyboard that explains the past and present talent migration across countries, industries, and skillsets/expertise, and forecasts them for the next 5 years using Holt Exponential Smoothing (annual data means no presence of seasonality).**
+**Storytelling through data. A storyboard that explains the past and present talent migration across countries, industries, and skillsets/expertise, and forecasts them for the next 5 years using Holt Exponential Smoothing.**
     
 <img src="{{ site.baseurl }}/assets/img/git.talentmigration1.png">
 
