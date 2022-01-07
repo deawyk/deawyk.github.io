@@ -13,7 +13,7 @@ permalink: /projects/
 
 I generally spend 1-2 weeks working on each project. (My bandwidth for long-term projects is strictly reserved for work). The ideation process is spontaneous, usually when personal interest, time, and an learning opportunity align.
 
-I veer toward human problems that often deal with dense, ambiguous subjects; and present indefinite answers and sometimes more questions. It's made me more comfortable with uncertainty.
+I veer toward people problems that often deal with vague, dense subjects, present indefinite answers, and sometimes even more questions. Through the process I've become more comfortable with ambiguity.
     
 <div style="text-align: left">
     
@@ -24,9 +24,14 @@ I veer toward human problems that often deal with dense, ambiguous subjects; and
 {:/} -->
 
 ---
-## [Talent Migration and Time Series Forecasting](https://public.tableau.com/app/profile/dea.wang/viz/WorldBankLinkedInInsights/StoryInsights)
-**A storyboard and predictive model that explains and forecasts country, industry, and skills migration of talents globally.** 
 
+## [People Analytics / HR Analytics Lesson Plan](https://github.com/deawyk/HR-Analytics/blob/main/Geolocation%20Clustering%20Lesson%20Plan.ipynb)
+**A 3-eay lesson plan that combines all the widely used tools (Excel, Tableau, Jupyter Notebook) on the market and introduces students to HR Analytics and its applications.
+
+    
+## [Talent Migration and Time Series Forecasting](https://public.tableau.com/app/profile/dea.wang/viz/WorldBankLinkedInInsights/StoryInsights)
+**Storytelling through data. A storyboard that explains the past and present talent migration across countries, industries, and skillsets/expertise, and forecasts them for the next 5 years using Holt Exponential Smoothing (annual data means no presence of seasonality).**
+    
 <img src="{{ site.baseurl }}/assets/img/git.talentmigration1.png">
 
 Forecasting Model Demo
@@ -34,8 +39,8 @@ Forecasting Model Demo
 <br>  
     
 
-## <i class='fa fa-file-text'></i>[Return-to-Office Recommender](/assets/pdf/git.o2analytics.pdf)
-**Building a recommender system to classify and predict workplace health & safety and exigency of return-to-office admist the pandemic.**
+## <i class='fa fa-file-text'></i>[Workplace Health & Safety App](/assets/pdf/git.o2analytics.pdf)
+**A mvp mobile app which projects and recommends workplace safety regulations and return-to-office exigency for employees based on 300+ leading and lagging environmental indicators, job function, and individual health.**
 
 Prototype Pitch Draft
 <img src="{{ site.baseurl }}/assets/img/git.office.png">
@@ -45,13 +50,18 @@ Prototype Pitch Draft
 **A trading bot that trades stocks for you using TD Ameritrade API in Python.**
     
 I wrote multiple Classes for trading actions using [tda-api](https://pypi.org/project/tda-api/). The stock, trading interval, and investment strategy of choice is user-determined. In the example, I used RSI or EMA thresholds ([ta](https://technical-analysis-library-in-python.readthedocs.io/en/latest/) for financial ratios) to trigger actions. Process was automated end-to-end with Selenium.<br>    
+<img src="{{ site.baseurl }}/assets/img/git.tb1.png">    
     
     
+## [Customer Segmentation via Heurisitics and ML](https://github.com/deawyk/Customer-Segmentation-via-KMeans/blob/main/CS_KMeans.ipynb)
+**Customer segmentation and cohort analysis on real retail data using heuristics and k-means clustering.**
     
-## [Customer Segmentation with Heurisitics and K-means](https://github.com/deawyk/Customer-Segmentation-via-KMeans/blob/main/CS_KMeans.ipynb)
-**Customer segmentation and cohort analysis on real retail data using k-means clustering.**
-    
-I performed EDA of 500k records of retail data from an UK based online store, converted prices dynamically based on fx rate at time of purchase ([cc](https://pypi.org/project/CurrencyConverter/)), grouped cohorts, and conducted behavioural analysis. My heuristic approach using RFM segmentation was analyzed against results from k-means clustering, revealing 69% congruence.<br>
+
+Customer Segmentation via Heuristics and ML (python data science stack)Customer Segmentation via Heuristics and ML (python data science stack)
+See project
+Customer segmentation and cohort analysis of real retail data using brute force, heuristic, and machine learning approaches.
+
+I performed EDA on 525k records from an UK based eCommerce store, converted prices dynamically based on fx rate at time of purchase ([cc](https://pypi.org/project/CurrencyConverter/)), grouped cohorts, and conducted behavioural analysis. My heuristic approach (RFM quartile) was analyzed against results from k-means clustering, revealing 69% congruency.<br>
     
 <i class='fa fa-file-text'></i>[Customer Segmentation Presentation](/assets/pdf/git.customerseg.pdf)
 <img src="{{ site.baseurl }}/assets/img/git.cs1.png">
@@ -61,7 +71,7 @@ I performed EDA of 500k records of retail data from an UK based online store, co
 ## [Google Cloud Platform ETL and BI](https://github.com/deawyk/Google-Analytics-KPIs-via-Google-BigQuery/blob/main/BigQuery%20Script.sql)
 **Comprehensive report and three dashboards outlining high-level, ad-hoc, and KPI needs.**
     
-Amongst an inordinate amount of KPIs, I identified the disproportionately valuable ones which drive the biggest impact. Using Google BigQuery and Google Analytics Sample data, I wrote SQL-like queries for the metrics: Total Pageviews, Total Unique Pageviews, Total Entrances, Total Exits, Total Time on Page, Total Sessions, and Total Bounces.<br>
+Identifying the disproportionately valuable KPIs which drive the biggest impact. Using tools from the Google data ecosystem, I wrote SQL-like queries for the metrics such as total pageviews, total unique pageviews, total entrances, total exits, total time on page, total sessions, total bounces, etc.<br>
 
 [Google Merchandise Store Dashboard](https://public.tableau.com/views/gms_16221492319430/1?:language=en-US&:display_count=n&:origin=viz_share_link)        
 <br>
