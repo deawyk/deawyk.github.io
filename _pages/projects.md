@@ -56,11 +56,6 @@ I wrote multiple Classes for trading actions using [tda-api](https://pypi.org/pr
 ## [Customer Segmentation via Heurisitics and ML](https://github.com/deawyk/Customer-Segmentation-via-KMeans/blob/main/CS_KMeans.ipynb)
 **Customer segmentation and cohort analysis on real retail data using heuristics and k-means clustering.**
     
-
-Customer Segmentation via Heuristics and ML (python data science stack)Customer Segmentation via Heuristics and ML (python data science stack)
-See project
-Customer segmentation and cohort analysis of real retail data using brute force, heuristic, and machine learning approaches.
-
 I performed EDA on 525k records from an UK based eCommerce store, converted prices dynamically based on fx rate at time of purchase ([cc](https://pypi.org/project/CurrencyConverter/)), grouped cohorts, and conducted behavioural analysis. My heuristic approach (RFM quartile) was analyzed against results from k-means clustering, revealing 69% congruency.<br>
     
 <i class='fa fa-file-text'></i>[Customer Segmentation Presentation](/assets/pdf/git.customerseg.pdf)
@@ -78,7 +73,7 @@ I wrote queries for metrics such as total pageviews, unique pageviews, entrances
     
     
 ## [Webscraping Three Ways](https://github.com/deawyk/Webscraping-Three-Ways/blob/main/pipeline.py)
-**Using Regex, Selenium, and BeautifulSoup, built data pipelines for three diversely formatted sites to compile financial data ([yfinance](https://pypi.org/project/yfinance/)) into workable dataframes, with emphasis on Regex.
+**Using Regex, Selenium, and BeautifulSoup, built data pipelines for three diversely formatted sites to compile financial data ([yfinance](https://pypi.org/project/yfinance/)) into workable dataframes, with emphasis on regex.**
     
 ---
 
