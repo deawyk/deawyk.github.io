@@ -16,7 +16,7 @@ title: Dea Wang
 <div class="lead lead-about">
     
 <br> 
-Hi, I'm Dea! I'm an People Analytics and Research Lead based in Toronto. Essentially, I help organizations help people succeed. 
+Welcome! I'm Dea, an People Analytics Lead and Researcher, currently based in Toronto. Essentially, I help organizations help their people succeed. 
 
 In my downtime, I read, tinker with new ideas, and sometimes [write them down](https://deaw.medium.com/). <br>
     
