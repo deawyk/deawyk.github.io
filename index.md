@@ -24,7 +24,7 @@ Here are some of my favorite hubs for open data: [GDELT](https://www.gdeltprojec
 
 and favorite essays: [The Ideal Woman](https://www.theguardian.com/news/2019/aug/02/athleisure-barre-kale-tyranny-ideal-woman-labour), [The High is Always the Pain](https://themorningnews.org/article/the-high-is-always-the-pain-and-the-pain-is-always-the-high), [How to Do What You Love](http://www.paulgraham.com/love.html).
     
-My inbox is always open if you're interested to [chat](https://calendly.com/deaw/coffee)!
+My inbox is always open if you'd like to chat. Thanks for stopping by!
 </div>
 
 
