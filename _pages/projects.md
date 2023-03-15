@@ -11,7 +11,7 @@ permalink: /projects/
     
 <div class="lead lead-about">
 
-I typically spend ~1-2 weeks on personal project. (My bandwidth for longer projects is strictly reserved for work). The ideation process is spontaneous, usually when curiosity and a learning opportunity align.
+I typically spend ~1-2 weeks on personal projects. (My bandwidth for longer projects is strictly reserved for work). The ideation process is spontaneous, usually when curiosity and a learning opportunity align.
 
 I veer toward people and customer-focused problems that often deal with dense subjects and vague answers. Through the process I've learnt to appreciate the grind through the ambiguity.
     
