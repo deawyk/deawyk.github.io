@@ -13,7 +13,7 @@ permalink: /projects/
 
 I typically spend 1-2 weeks on personal projects. My bandwidth for long projects is strictly reserved for work. The ideation process is spontaneous, usually when curiosity, a learning opportunity, and scheduling align.
 
-My passion is in solving people/HR and customer problems. I'm quite enjoy navigating through uncertainty and dealing with dense, ambiguous subjects.
+My passion is in solving people and customer problems. I'm very much enjoy navigating through uncertainty and dealing with dense, ambiguous subjects.
     
 <div style="text-align: left">
     
