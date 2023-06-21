@@ -16,7 +16,7 @@ title: Dea Wang
 <div class="lead lead-about">
     
 <br> 
-Hi, and welcome! I'm Dea, a People Analytics/Workforce Planning Consultant and HR Researcher, currently based in Toronto. By day, I help businesses help their people succeed. By night, I help new immigrants land their first corporate jobs in Canada. <br>
+Hi, and welcome! I'm Dea, a People Analytics and Workforce Planning Consultant/HR Partner, currently based in Toronto. By day, I help businesses help their people succeed. By night, I enjoy helping new immigrants land their first corporate jobs in Canada. <br>
     
 My indulge in nature, papers ([1](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cL23w-4AAAAJ&citation_for_view=cL23w-4AAAAJ:lK9BDNCuzFgC),[2](https://themorningnews.org/article/the-high-is-always-the-pain-and-the-pain-is-always-the-high), [3](http://www.paulgraham.com/love.html)), and tech [twitter](twitter.com/deawyk/likes).
     
